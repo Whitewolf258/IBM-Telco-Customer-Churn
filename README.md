@@ -21,7 +21,7 @@ Short tenure customers → Need onboarding and loyalty programs.
 Bundled services (e.g., online security, tech support) → Lower churn.
 High-charge customers → Monitor and provide targeted retention offers.
 
-## 📂 Project Structure  
+📂 Project Structure  
 ├── dataset/
 │ ├── IBM_CHURN.CSV.xlsx # Original dataset
 │ ├── IBM_CHURN_cleaned.csv # Cleaned dataset
