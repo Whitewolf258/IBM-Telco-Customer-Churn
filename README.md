@@ -39,7 +39,7 @@ High-charge customers → Monitor and provide targeted retention offers.
 
 🛠️ Installation & Setup
 # 🔹 Clone the repository
-git clone https://github.com/your-username/ibm-churn-prediction.git
+git clone https://github.com/Whitewolf258/ibm-churn-prediction.git
 cd ibm-churn-prediction
 
 # 🔹 (Optional) Create a virtual environment
