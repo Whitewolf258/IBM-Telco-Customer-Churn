@@ -21,21 +21,21 @@ Short tenure customers → Need onboarding and loyalty programs.
 Bundled services (e.g., online security, tech support) → Lower churn.
 High-charge customers → Monitor and provide targeted retention offers.
 
-**Full Project Details**
-📂 Project Structure
-├── data/
-│   ├── IBM_CHURN.CSV.xlsx         # Original dataset
-│   ├── IBM_CHURN_cleaned.csv      # Cleaned dataset
+## 📂 Project Structure  
+├── dataset/
+│ ├── IBM_CHURN.CSV.xlsx # Original dataset
+│ ├── IBM_CHURN_cleaned.csv # Cleaned dataset
 │
 ├── notebooks/
-│   ├── Final_IBM_Churn_Enhanced_Polished.ipynb  # Main analysis & modeling notebook
-│   ├── Final_IBM_Churn_Enhanced_Report.html     # Exported HTML report
+│ ├── Final_IBM_Churn_Enhanced_Polished.ipynb # Main analysis & modeling notebook
 │
-├── Visuals                        # Saved graphs & visualizations
+├── Visuals/ # Saved graphs & visualizations
 │
-├── Report
-├── requirements.txt               # Project dependencies
-├── README.md                      # Project documentation (this file)
+├── Report/ # Final project report (PDF, DOCX, etc.)
+│
+├── requirements.txt # Project dependencies
+├── README.md # Project documentation (this file)
+
 
 🛠️ Installation & Setup
 # 🔹 Clone the repository
