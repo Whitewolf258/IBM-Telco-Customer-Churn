@@ -1,4 +1,4 @@
-**# IBM-Telco-Customer-Churn**
+**IBM-Telco-Customer-Churn**
 
 **Executive Summary**
 This project predicts customer churn using the IBM Telco dataset. Churn is when customers discontinue a service, and preventing it is crucial since retaining existing customers is far cheaper than acquiring new ones. Predicting customer churn using the IBM Telco dataset with Logistic Regression and Random Forest. Includes data cleaning, leakage prevention, imbalance handling, and model evaluation. Provides business insights on contracts, tenure, services, and charges to improve customer retention.
